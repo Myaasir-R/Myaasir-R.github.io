@@ -96,6 +96,8 @@ footer{
 #message{
     padding-right:70px;
 }
+
 main{
+    /*border covers entire screen*/
     padding-bottom: 100%;
 }

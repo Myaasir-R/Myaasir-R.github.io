@@ -1,6 +1,7 @@
 body{
     margin:0;
     padding:5px;
+    
     font-family: Arial, sans-serif;
     background-color: #0d1117;
     color: rgb(229, 229, 229);
@@ -94,4 +95,7 @@ footer{
 }
 #message{
     padding-right:70px;
+}
+main{
+    padding-bottom: 100%;
 }
